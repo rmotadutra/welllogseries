@@ -5,6 +5,7 @@ A series of notebooks that contain some python tips for working with well logs. 
 ## Contents
 
 * 01 - [Importing LAS file](https://github.com/rmotadutra/welllogseries/blob/main/01_Importing_LAS_file.ipynb)
+* 02 - [Displaying LogPlots using Matplotlib](https://github.com/rmotadutra/welllogseries/blob/main/02_Displaying_LogPlots_using_Matplotlib.ipynb)
 
 ## Google Colab
 
