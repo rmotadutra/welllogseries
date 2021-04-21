@@ -9,7 +9,7 @@ A series of notebooks that contain some python tips for working with well logs. 
 
 ## Google Colab
 
-All notebooks were created on the Google Colab platform.
+All notebooks were created at the Google Colab platform.
 
 ## Suggestions
 
